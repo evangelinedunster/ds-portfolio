@@ -1,0 +1,25 @@
+Posting 1: Machine Learning & Data Engineer - Department of Health - Midlevel
+Skills from posting 1: 
+Equity & Inclusion (required) 
+Master's degree (required)
+Doctorate degree (preferred)
+Good time management (preferrred)
+Leadership (preferred)
+Professionalism (preferred)
+Experience with R and Linux (preferred)
+Posting 2: Student Data & Systems Technician - Agricultural Cyber Ecosystem & Data Services - Entry level/student
+Skills from posting 2:
+Current student in good standing (required)
+Pass a background check (required)
+Experience with SQL (required)
+Good attention to detail (required)
+Experience with HTML/CSS/JavaScript (preferred)
+Experience with Git (preferred)
+Experience in computer science, data science, or agricultural science (preferred)
+Skills from both postings:
+Experience with Python (required)
+Experience working with datasets (required)
+Teamwork (required)
+Technology (required)
+Communication (required)
+Notes: Although there was a difference in seniority level and industry, a lot of the qualifications were shared among the two postings. When going through each posting and identifying qualifications, I learned that you have to read very carefully to find hidden qualifications that aren't explicitly stated. Looking at these postings, it seems like NACE competencies like teamwork, technology, and communication are highly valued in the data science world right now. 
